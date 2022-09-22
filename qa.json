@@ -284,20 +284,20 @@
     {
         "id": 48,
         "topic": "javascript basic",
-        "question": "What is event bubble?",
-        "answer": ""
+        "question": "What is event bubbling?",
+        "answer": "Event bubbling is a type of event propagation where the event first triggers on the innermost target element, and then successively triggers on the ancestors of the target element in the same nesting hierarchy till it reaches the outermost DOM element or document object."
     },
     {
         "id": 49,
         "topic": "javascript basic",
         "question": "What are function declaration, function expression and   arrow function?",
-        "answer": ""
+        "answer": "<p>A function declaration tells the JavaScript engine about a function's name, return type, and parameters. When a function has been declared, it can be used anytime inside a class or development scope whenever it's been called/invoked.</p><p>A function expression is very similar to and has almost the same syntax as a function declaration. The main difference between a function expression and a function declaration is the function name, which can be omitted in function expressions to create anonymous functions.</p><p>Arrow functions are a new way to write anonymous function expressions, and are similar to lambda functions in some other programming languages, such as Python. Arrow functions differ from traditional functions in a number of ways, including the way their scope is determined and how their syntax is expressed.</p>"
     },
     {
         "id": 50,
         "topic": "javascript basic",
         "question": "What are the differences among var, let and constant?",
-        "answer": ""
+        "answer": "<ul><li>var is function-scoped while let and const are block-scoped.</li><li>var variables can be reassigned while let and const variables can not.</li><li>var variables are declared using the var keyword while let and const variables are declared using the let and const keywords respectively.</li><li>const variables are immutable while let and var variables are not.</li></ul>"
     },
     {
         "id": 51,
