@@ -423,7 +423,7 @@
         "id": 71,
         "topic": "javascript basic",
         "question": "What is syntax error?",
-        "answer": ""
+        "answer": "A syntax error in computer science is an error in the syntax of a coding or programming language, entered by a programmer. Syntax errors are caught by a software program called a compiler, and the programmer must fix them before the program is compiled and then run. ( কম্পিউটার বিজ্ঞানে একটি সিনট্যাক্স ত্রুটি হল একটি কোডিং বা প্রোগ্রামিং ভাষার সিনট্যাক্সে একটি ত্রুটি , যা একজন প্রোগ্রামার দ্বারা হয়ে  থাকে । সিনট্যাক্স ত্রুটিগুলি একটি কম্পাইলার নামক একটি সফ্টওয়্যার প্রোগ্রাম দ্বারা ধরা পড়ে এবং প্রোগ্রাম কম্পাইল করার আগে প্রোগ্রামারকে অবশ্যই সেগুলি ঠিক করতে হবে এবং তারপরে চালানো হবে৷ )"
     },
     {
         "id": 72,
@@ -435,6 +435,6 @@
         "id": 73,
         "topic": "javascript basic",
         "question": "What is wrong with the code: var foo; console.log(foo.bar); (a) What type of error will the code generate? (b) What is the correct way to write the code?",
-        "answer": " foisal hossen fahim"
+        "answer": ""
     }
 ]
